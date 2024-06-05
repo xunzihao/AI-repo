@@ -1,0 +1,1 @@
+{"bert_model": "bert-base-chinese", "do_lower": true, "max_seq_length": 80, "num_labels": 6, "label_map": {"1": "O", "2": "B-ASP", "3": "I-ASP", "4": "[CLS]", "5": "[SEP]"}}
